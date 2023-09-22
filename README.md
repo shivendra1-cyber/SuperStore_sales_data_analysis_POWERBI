@@ -20,6 +20,7 @@ The data for this analysis was sourced from [provide source information]. It con
 
 ## 3. Data Preparation
 Before conducting any analysis, it is essential to clean and preprocess the data. This typically involves handling missing values, removing duplicates, and formatting data types appropriately.
+: https://rb.gy/6l7bl 
 
 ## 4. Exploratory Data Analysis
 Exploratory Data Analysis (EDA) is crucial for gaining insights into the Superstore's sales data. EDA involves various data visualization techniques and statistical methods to uncover trends, patterns, and outliers. Some key analyses to perform include:
