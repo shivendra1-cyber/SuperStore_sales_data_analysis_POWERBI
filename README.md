@@ -1,5 +1,5 @@
 # SuperStore_sales_data_analysis_POWERBI
-# Sales Data Analysis of Superstore
+
 
 ## Table of Contents
 1. Introduction
